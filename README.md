@@ -6,3 +6,5 @@ In my setting the notes were received from a Midi-Keyboar via a Teensy 4.1 using
 
 https://github.com/RoSchmi/Teensy/tree/master/Proj/Teensy41_Transfer_MIDI_To_UsbMIDI
 
+A private version of this example for debugging the DryWetMidi library is in my project: RoSchmiDryWetMidiUtility
+
